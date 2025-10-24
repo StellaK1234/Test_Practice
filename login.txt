@@ -1,0 +1,10 @@
+Test Case ID: TC001
+Title: Verify login with valid credentials
+Precondition: User has a valid account.
+Steps:
+1. Open the application.
+2. Navigate to the login page.
+3. Enter a valid username and password.
+4. Click on the “Login” button.
+Expected Result:
+User should successfully log in and be redirected to the dashboard.
