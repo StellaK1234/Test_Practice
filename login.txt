@@ -9,3 +9,5 @@ Steps:
 Expected Result:
 User should successfully log in and be redirected to the dashboard.
 Test Case Finished
+Test Case ID: TC002
+Click on logout button
