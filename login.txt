@@ -8,3 +8,4 @@ Steps:
 4. Click on the “Login” button.
 Expected Result:
 User should successfully log in and be redirected to the dashboard.
+Test Case Finished
