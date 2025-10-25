@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-18T11:31:24 IST" name="Default suite" finished-at="2025-02-18T11:31:32 IST" duration-ms="7712">
+    <groups>
+    </groups>
+    <test started-at="2025-02-18T11:31:24 IST" name="Default test" finished-at="2025-02-18T11:31:32 IST" duration-ms="7712">
+      <class name="pageObjectsWithAnnotation.RegistrationTestCase">
+        <test-method signature="log()[pri:0, instance:pageObjectsWithAnnotation.RegistrationTestCase@36ebc363]" started-at="2025-02-18T11:31:24 IST" name="log" finished-at="2025-02-18T11:31:32 IST" duration-ms="7640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- log -->
+      </class> <!-- pageObjectsWithAnnotation.RegistrationTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
